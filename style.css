@@ -1,0 +1,43 @@
+body {
+    background-color: aqua;
+}
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* selectors */
+
+p {
+    color: red;
+    font-size: 40px;
+}
+
+.para1 {
+    color: green;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#para2 {
+    color: rgb(161, 7, 102);
+    font-size: 60px;
+    font-weight: bold;
+}
+
+
+/* CSS libraries - bootstrap/materialUI/semanticUi/foundation */
+
+/* css specificity rule - 
+!important */
+
+/* z-index
+position
+display
+flex and grid
+margin padding
+box model
+float */
+
+
+
+/* absolute and relative url */
